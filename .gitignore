@@ -1,0 +1,9 @@
+*.class
+*.log
+*.jar
+*.war
+target/
+.project
+.classpath
+pom.xml.tag
+release.properties
